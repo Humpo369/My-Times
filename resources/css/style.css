@@ -31,3 +31,23 @@ nav span {
 a {
 	color: black;
 }
+
+.content {
+	display: flex;
+	border: 1px solid black;
+}
+
+.large {
+	display: flex;
+	flex-direction: column;
+	border: 2px solid black;
+	width: 630px;
+}
+
+.main-story {
+	border: 1px solid black;
+}
+
+.image-content {
+	border: 2px solid black;
+}
